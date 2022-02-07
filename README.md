@@ -59,7 +59,7 @@ I am a passionate self-taught programmer from India.
 <br />
 
 ### 📊 GitHub Stats:
-![SaiAdithya3's github stats](https://github-readme-stats.vercel.app/api?username=SaiAdithya3&show_icons=true&theme=dracula&count_private=true&include_all_commits=true&hide=contribs,issues,stars)
+!<!--[[SaiAdithya3's github stats](https://github-readme-stats.vercel.app/api?username=SaiAdithya3&show_icons=true&theme=dracula&count_private=true&include_all_commits=true&hide=contribs,issues,stars)](url)-->
 
 <img width=800 src="https://github-profile-trophy.vercel.app/?username=SaiAdithya3&column=7&layout=compact&theme=gruvbox&no-frame=true"/>
 
