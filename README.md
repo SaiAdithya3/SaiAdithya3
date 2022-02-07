@@ -61,6 +61,17 @@ I am a passionate self-taught programmer from India.
 ### 📊 GitHub Stats:
 ![SaiAdithya3's github stats](https://github-readme-stats.vercel.app/api?username=SaiAdithya3&show_icons=true&theme=dracula&count_private=true&include_all_commits=true&hide=contribs,issues,stars)
 
+<img width=800 src="https://github-profile-trophy.vercel.app/?username=SaiAdithya3&column=7&layout=compact&theme=gruvbox&no-frame=true"/>
+
+
+<img height="190" src="https://github-readme-stats.vercel.app/api?username=SaiAdithya3&show_icons=true&theme=dark"> <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaiAdithya3&layout=compact&langs_count=8&theme=dark">
+
+<img height="190" src="https://github-readme-streak-stats.herokuapp.com/?user=SaiAdithya3&layout=compact&theme=dark">
+
+<img src="https://activity-graph.herokuapp.com/graph?username=ripunjaynarula&theme=github">
+
+
+
 
 [website]: https://saiadithya3.github.io/portfolio-website/
 [linkedin]: https://www.linkedin.com/in/sai-adithya-k-802a90221/
