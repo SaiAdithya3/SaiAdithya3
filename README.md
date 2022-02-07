@@ -69,6 +69,11 @@ I am a passionate self-taught programmer from India.
 <img height="190" src="https://github-readme-streak-stats.herokuapp.com/?user=SaiAdithya3&layout=compact&theme=dark">
 
 <img src="https://activity-graph.herokuapp.com/graph?username=SaiAdithya3&theme=github">
+<div>
+<p > 
+<img src="https://profile-counter.glitch.me/SaiAdithya3/count.svg" />
+</p>
+</div>
 
 
 
