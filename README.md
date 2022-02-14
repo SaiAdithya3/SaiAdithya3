@@ -11,12 +11,7 @@
 
 I am a passionate self-taught programmer from India.
 
-- 🔭 I’m currently working on something really cool 😉
-- 🌱 I’m currently studying B.Tech 
-- 👯 I’m looking to collaborate on more open source projects.
-- 💬 Ask me anything [here](https://github.com/SaiAdithya3/SaiAdithya3/issues) related to <b>Web application Development, HTML,CSS,JavaScript, NodeJS, Express, React, Next JS, SQL, MongoDB, MySQL, Java,C , C++, Python, Computer Networks, Security.</b>
-- 📫 How to reach me: [@saiadithya][linkedin] or say 👋 or checkout my portfolio  at [Sai Adithya][website]
-- ⚡ Fun fact: I love 🏎️ 
+How to reach me: [@saiadithya][linkedin] or say 👋 or checkout my portfolio  at [Sai Adithya][website]
 
 ### Connect with me:
 
