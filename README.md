@@ -9,9 +9,9 @@
 <!--
 **SaiAdithya3/SaiAdithya3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-I am a passionate self-taught programmer from India.
 
-How to reach me: [@saiadithya][linkedin] or say 👋 or checkout my portfolio  at [Sai Adithya][website]
+
+Reach me: [@saiadithya][linkedin] or say 👋 or checkout my portfolio  at [Sai Adithya][website]
 
 ### Connect with me:
 
@@ -59,7 +59,7 @@ How to reach me: [@saiadithya][linkedin] or say 👋 or checkout my portfolio  a
 <img width=800 src="https://github-profile-trophy.vercel.app/?username=SaiAdithya3&column=7&layout=compact&theme=gruvbox&no-frame=true"/>
 
 
-<img height="190" src="https://github-readme-stats.vercel.app/api?username=SaiAdithya3&show_icons=true&theme=dark"> <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaiAdithya3&layout=compact&langs_count=8&theme=dark">
+<img height="190" src="https://github-readme-stats.vercel.app/api?username=SaiAdithya3&show_icons=true&theme=dark"> 
 
 <img height="190" src="https://github-readme-streak-stats.herokuapp.com/?user=SaiAdithya3&layout=compact&theme=dark">
 
