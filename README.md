@@ -74,7 +74,7 @@ Reach me: [@saiadithya][linkedin] or say 👋 or checkout my portfolio  at [Sai 
 
 
 [website]: https://saiadithya3.github.io/portfolio-website/
-[linkedin]: https://www.linkedin.com/in/sai-adithya-k-802a90221/
+[linkedin]: https://www.linkedin.com/in/ksaiadithya/
 [instagram]: https://www.instagram.com/sai_.adithya/
 [twitter]: https://twitter.com/SaiAdithya39/
 [facebook]: https://www.facebook.com/sai.adithya.1401/
