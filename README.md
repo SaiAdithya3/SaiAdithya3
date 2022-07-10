@@ -56,7 +56,7 @@ Reach me: [@saiadithya][linkedin] or say 👋 or checkout my portfolio  at [Sai 
 ### 📊 GitHub Stats:
 !<!--[[SaiAdithya3's github stats](https://github-readme-stats.vercel.app/api?username=SaiAdithya3&show_icons=true&theme=dracula&count_private=true&include_all_commits=true&hide=contribs,issues,stars)](url)-->
 
-<img width=800 src="https://github-profile-trophy.vercel.app/?username=SaiAdithya3&column=7&layout=compact&theme=gruvbox&no-frame=true"/>
+
 
 
 <img height="190" src="https://github-readme-stats.vercel.app/api?username=SaiAdithya3&show_icons=true&theme=dark"> 
