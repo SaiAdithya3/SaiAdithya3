@@ -56,7 +56,7 @@
 
 
 <p align="center">
-          <a href="https://github.com/1999AZZAR/">
+          <a href="https://github.com/SaiAdithya3/">
           <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=SaiAdithya3&show_icons=true&theme=gruvbox&hide_border=true" />
           <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=SaiAdithya3&theme=gruvbox&hide_border=true" />
           </a>
