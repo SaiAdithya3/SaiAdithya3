@@ -78,7 +78,7 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://www.saiadithya.netlify.app"><img src="https://img.shields.io/badge/-saiadithya.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://saiadithya.netlify.app"><img src="https://img.shields.io/badge/-saiadithya.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://linkedin.com/in/ksaiadithya"><img src="https://img.shields.io/badge/-Sai%20Adithya%20K-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:saiadithyakancharla@gmail.com"><img src="https://img.shields.io/badge/-saiadithyakancharla@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/sai_.adithya"><img src="https://img.shields.io/badge/-@sai_.adithya-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
