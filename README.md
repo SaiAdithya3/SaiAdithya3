@@ -59,6 +59,8 @@
 
 </p>
 
+
+[![An image of @saiadithya3's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/saiadithya3)](https://holopin.io/@saiadithya3)
 <p > 
 <img src="https://profile-counter.glitch.me/SaiAdithya3/count.svg" />
 </p>
