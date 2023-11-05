@@ -96,8 +96,9 @@
 
 
 
-
-[![An image of @saiadithya3's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/saiadithya3)](https://holopin.io/@saiadithya3)
+<div>
+  <a href="https://www.holopin.io/@saiadithya3"><img height="190" src="https://holopin.io/api/user/board?user=saiadithya3"></a> 
+</div>
 <p > 
 <img src="https://profile-counter.glitch.me/SaiAdithya3/count.svg" />
 </p>
