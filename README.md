@@ -26,7 +26,7 @@
 
 <br />
 
-
+<img src="https://github.com/SaiAdithya3/SaiAdithya3/blob/main/tools.png" width="40%"/>
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
 ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white)
