@@ -23,9 +23,11 @@
 
 
 <br />
-
-<img src="https://github.com/SaiAdithya3/SaiAdithya3/blob/main/tools.png" width="40%"/>
-
+<hr>
+<p align="center">
+<img src="https://github.com/SaiAdithya3/SaiAdithya3/blob/main/tools.png" width="40%" />
+</p>
+  
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
 ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white)
@@ -60,7 +62,7 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black)
 
 <br />
-
+<hr>
 
 ### 📊 GitHub Stats:
 <!--[[SaiAdithya3's github stats](https://github-readme-stats.vercel.app/api?username=SaiAdithya3&show_icons=true&theme=dracula&count_private=true&include_all_commits=true&hide=contribs,issues,stars)](url)-->
@@ -72,8 +74,8 @@
 
 <p align="center">
           <a href="https://github.com/SaiAdithya3/">
-          <img width="45%" src="https://github-readme-stats.vercel.app/api?username=SaiAdithya3&show_icons=true&theme=gruvbox&hide_border=true" />
-          <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=SaiAdithya3&theme=gruvbox&hide_border=true" />
+          <img width="45%" hspace="10" src="https://github-readme-stats.vercel.app/api?username=SaiAdithya3&show_icons=true&theme=gruvbox&hide_border=true" />
+          <img width="48%" hspace="10" src="https://github-readme-streak-stats.herokuapp.com/?user=SaiAdithya3&theme=gruvbox&hide_border=true" />
           </a>
        </p>
        
@@ -95,8 +97,9 @@
 
 
 <div>
-  <a href="https://www.holopin.io/@saiadithya3"><img width="60%" src="https://holopin.io/api/user/board?user=saiadithya3"></a> 
+  <a href="https://www.holopin.io/@saiadithya3"><img width="65%" src="https://holopin.io/api/user/board?user=saiadithya3" hspace="10"></a> 
+  <img  src="https://github.com/SaiAdithya3/SaiAdithya3/blob/main/porsche.jpg" alt="porsche" width="30%" hspace="10"/>
 </div>
-<p > 
+<p align="center"> 
 <img src="https://profile-counter.glitch.me/SaiAdithya3/count.svg" />
 </p>
