@@ -98,7 +98,7 @@
 
 <div>
   <a href="https://www.holopin.io/@saiadithya3"><img width="65%" src="https://holopin.io/api/user/board?user=saiadithya3" hspace="10"></a> 
-  <img  src="https://github.com/SaiAdithya3/SaiAdithya3/blob/main/porsche.jpg" alt="porsche" width="30%" hspace="10"/>
+  <img  src="https://github.com/SaiAdithya3/SaiAdithya3/blob/main/porsche.jpg" alt="porsche" width="30%" />
 </div>
 <p align="center"> 
 <img src="https://profile-counter.glitch.me/SaiAdithya3/count.svg" />
