@@ -22,8 +22,6 @@
 </div>
 
 
-
-
 <br />
 
 <img src="https://github.com/SaiAdithya3/SaiAdithya3/blob/main/tools.png" width="40%"/>
@@ -97,7 +95,7 @@
 
 
 <div>
-  <a href="https://www.holopin.io/@saiadithya3"><img height="190" src="https://holopin.io/api/user/board?user=saiadithya3"></a> 
+  <a href="https://www.holopin.io/@saiadithya3"><img width="60%" src="https://holopin.io/api/user/board?user=saiadithya3"></a> 
 </div>
 <p > 
 <img src="https://profile-counter.glitch.me/SaiAdithya3/count.svg" />
