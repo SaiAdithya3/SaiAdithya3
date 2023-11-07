@@ -21,8 +21,8 @@
        alt="snake" /></a>
 </div>
 
-
 <br />
+
 <hr>
 <p align="center">
 <img src="https://github.com/SaiAdithya3/SaiAdithya3/blob/main/tools.png" width="40%" />
