@@ -20,7 +20,6 @@
   <img  src="https://github.com/SaiAdithya3/SaiAdithya3/blob/main/grid-snake.svg"
        alt="snake" /></a>
 </div>
-
 <br />
 
 <hr>
