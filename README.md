@@ -70,7 +70,6 @@
 
 
 
-
 <p align="center">
           <a href="https://github.com/SaiAdithya3/">
           <img width="45%" hspace="10" src="https://github-readme-stats.vercel.app/api?username=SaiAdithya3&show_icons=true&theme=gruvbox&hide_border=true" />
