@@ -64,9 +64,6 @@
 <!--[[SaiAdithya3's github stats](https://github-readme-stats.vercel.app/api?username=SaiAdithya3&show_icons=true&theme=dracula&count_private=true&include_all_commits=true&hide=contribs,issues,stars)](url)-->
 
 
-
-
-
 <p align="center">
           <a href="https://github.com/SaiAdithya3/">
           <img width="45%" hspace="10" src="https://github-readme-stats.vercel.app/api?username=SaiAdithya3&show_icons=true&theme=gruvbox&hide_border=true" />
