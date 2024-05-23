@@ -9,7 +9,7 @@
 
 
 <div align="center">
-  <p>Visit my portfolio: <a href="https://saiadithya.vercel.app/"> adithya.vercel.app</a> </p>
+  <p>Visit my portfolio: <a href="https://saiadithya.vercel.app/"> saiadithya.vercel.app</a> </p>
 </div>
 
 <div align="center">
